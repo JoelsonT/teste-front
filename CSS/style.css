@@ -1,0 +1,60 @@
+
+
+.image img{
+    max-height: 45rem;
+    border-radius: 5px;
+   
+}
+h5{
+    margin-left: 1rem;
+}
+.login{
+    margin-top: 16rem;
+    
+}
+.login input{
+    margin-top: 1rem;
+    width: 20rem;
+    border-radius: 5px;
+}
+.login button{
+    margin-top: 1rem;
+    width: 20rem;
+    border-radius: 5px;
+    background-color: green;
+    color: white;
+    display: flex;
+    justify-content: center;
+    
+}
+.linkk{
+    width: 18rem;
+    margin-top: 0.5rem;
+    text-decoration: none;
+    color: green;
+    display: flex;
+    justify-content: center;
+    
+}
+
+/* PAGINA DE RECADOS*/
+
+.container2{
+    margin-top: 3rem;
+}
+
+.table{
+    margin-top: 3rem;
+}
+
+#error{
+    color: red;
+    
+}
+.green {
+    color: green;
+    
+}
+.red {
+    color: red;
+}
